@@ -1,0 +1,6 @@
+<T extends Number> => Number가 오거나 Number에서 상속받은 클래스 하나!!
+                        ==> Number, Integer, Double
+
+
+<? extends Number> => Number가 오거나 Number에서 상속받은 클래스들
+<? super Integer>
