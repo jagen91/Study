@@ -1,0 +1,7 @@
+? extends = reaidng   =  > set이 안됌 get 만 됌
+
+? super = writing = > get이 안됌 get 만 됌
+
+
+
+(? = Wildcard) 는 ?만 붙는 경우가 없다  super나 extends 가 같이 붙는다
