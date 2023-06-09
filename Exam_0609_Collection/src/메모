@@ -1,0 +1,28 @@
+Collection Framework
+
+다양한 데이터타입을 일관적인 알고리즘으로 다루기 위한 알고리즘 라이브러리.
+-> 제네릭/와일드카드
+
+특징
+1. 인터페이스를 이용하여 접근
+2. Collection With iterable / Map
+
+Set<E> : 집합  (중복X ,순서X)  ex 메뉴판 
+
+
+HashSet : (중복X ,순서X)
+1. HashCode 를 호출해서 값을 얻어온다.
+2. equals 함수를 호출해서 같은지 확인한다.
+
+
+TreeSet : 
+1. equals()
+2. HashCode()
+3. Comparable interface --> Sorting(정렬)을 구현하기 위한 인터페이스
+
+정렬은 기계적으로 표현하자면 비교를 여러번 하는 동작.
+
+
+
+
+
