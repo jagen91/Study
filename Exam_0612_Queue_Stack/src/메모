@@ -1,0 +1,6 @@
+Map : key - value 형식을 저장하기 위한 자료구조
+
+(json)
+
+key = 식별자
+value = 값
